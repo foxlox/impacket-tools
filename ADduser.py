@@ -4,6 +4,7 @@
 # fox at dedagroup.it
 # It creates a user and add to 'Domain Admins' group
 #
+
 import ssl
 import sys
 import ldap3
