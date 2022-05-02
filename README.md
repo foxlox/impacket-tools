@@ -10,6 +10,8 @@ Usage:
 
 $ Get-User-Privs.py -dc 192.168.0.130 'calipendula.local\piio:Password%' -user k3
 
+---
+
 
 ADduser.py
 Add a User in Domain Admins group
